@@ -1,0 +1,10 @@
+atom-beautify@0.29.24
+busy-signal@1.4.1
+dracula-theme@2.0.3
+git-plus@7.8.0
+intentions@1.1.2
+linter@2.1.4
+linter-eslint@8.1.7
+linter-ui-default@1.2.4
+prettier-atom@0.30.0
+
