@@ -36,7 +36,7 @@
     telemetryConsent: "no"
     themes: [
       "one-dark-ui"
-      "dracula-theme"
+      "dracula-syntax"
     ]
   editor:
     fontFamily: "Hack"
