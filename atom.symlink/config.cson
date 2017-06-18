@@ -48,8 +48,7 @@
     panelDisplayMode: "closed"
   "linter-eslint":
     useGlobalEslint: true
-  "linter-ui-default":
-    showPanel: true
+  "linter-ui-default": {}
   "prettier-atom":
     formatOnSaveOptions:
       enabled: true
