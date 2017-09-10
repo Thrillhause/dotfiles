@@ -21,6 +21,7 @@
       "background-tips"
       "exception-reporting"
       "metrics"
+      "linter-eslint"
     ]
     followSymlinks: false
     hideGitIgnoredFiles: true
