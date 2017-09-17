@@ -17,6 +17,7 @@
     ruby:
       default_beautifier: "Ruby Beautify"
   core:
+    closeDeletedFileTabs: true
     disabledPackages: [
       "background-tips"
       "exception-reporting"
@@ -71,3 +72,6 @@
 ".js.jsx.react.source":
   editor:
     autoIndent: true
+".php.source.wordpress":
+  editor:
+    scrollPastEnd: true
