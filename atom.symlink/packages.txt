@@ -1,10 +1,14 @@
-atom-beautify@0.29.26
+advanced-open-file@0.16.6
+atom-beautify@0.30.5
+atom-bootstrap3@1.2.12
+atom-html-preview@0.2.2
 busy-signal@1.4.3
 dracula-syntax@2.0.5
 git-plus@7.9.3
-intentions@1.1.2
-linter@2.1.4
-linter-eslint@8.2.1
-linter-ui-default@1.6.1
-prettier-atom@0.33.0
+intentions@1.1.5
+linter@2.2.0
+linter-eslint@8.3.2
+linter-ui-default@1.6.10
+prettier-atom@0.40.0
+wordpress-api@1.2.2
 
