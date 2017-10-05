@@ -33,6 +33,7 @@
       "repositories"
       "tmp"
       "vendor"
+      ".DS_Store"
     ]
     projectHome: "/Users/thrillhause/Projects"
     telemetryConsent: "no"
@@ -44,6 +45,7 @@
     fontFamily: "Hack"
     fontSize: 15
     invisibles: {}
+    scrollPastEnd: true
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
   "go-plus":
@@ -68,6 +70,8 @@
     ]
   stylefmt:
     formatOnSave: true
+  "tree-view":
+    hideIgnoredNames: true
   welcome:
     showOnStartup: false
 ".js.jsx.react.source":
