@@ -6,7 +6,7 @@ autocomplete-wordpress-hooks@0.2.3
 busy-signal@1.4.3
 dracula-syntax@2.0.5
 emmet@2.4.3
-git-plus@7.9.3
+git-plus@7.10.0
 intentions@1.1.5
 linter@2.2.0
 linter-eslint@8.3.2
