@@ -22,7 +22,6 @@
       "background-tips"
       "exception-reporting"
       "metrics"
-      "linter-eslint"
     ]
     followSymlinks: false
     hideGitIgnoredFiles: true
@@ -52,12 +51,11 @@
     panelDisplayMode: "closed"
   "linter-eslint":
     useGlobalEslint: true
-  "linter-ui-default":
-    showPanel: true
+  "linter-ui-default": {}
   "prettier-atom":
-    formatOnSaveOptions:
-      enabled: true
+    formatOnSaveOptions: {}
     prettierOptions:
+      bracketSpacing: false
       singleQuote: true
   "release-notes":
     viewedVersion: "0.89.0"
