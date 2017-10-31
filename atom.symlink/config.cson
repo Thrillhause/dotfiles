@@ -4,6 +4,11 @@
       beautify_on_save: true
     css:
       beautify_on_save: true
+    ejs:
+      break_chained_methods: true
+      end_with_comma: true
+      end_with_newline: true
+      space_after_anon_function: true
     html:
       beautify_on_save: true
     js:

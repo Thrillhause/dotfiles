@@ -34,6 +34,9 @@ alias .....="cd ../../../.."
 alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
+# Weather App
+alias weather="node Projects/learn/nodetest/weather-app/app-promise.js -a 92649"
+ 
 # Be nice
 alias htop='sudo htop'
 alias hosts='sudo $EDITOR /etc/hosts'
