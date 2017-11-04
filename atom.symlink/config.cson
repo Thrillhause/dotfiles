@@ -42,7 +42,7 @@
     projectHome: "/Users/thrillhause/Projects"
     telemetryConsent: "no"
     themes: [
-      "one-dark-ui"
+      "city-lights-ui"
       "dracula-syntax"
     ]
   editor:
