@@ -36,10 +36,15 @@ alias -- -="cd -"
 
 # Weather App
 alias weather="node Projects/learn/nodetest/weather-app/app-promise.js -a 92649"
- 
+
+# SSH Connections
+alias ssh-dhc="ssh ubuntu@208.97.140.227"
+alias ssh-yakko="ssh deanj@yakko.sd.dreamhost.com"
+alias ssh-thrill="ssh thrillhause@ps158038.dreamhostps.com"
+
 # Be nice
 alias htop='sudo htop'
-alias hosts='sudo $EDITOR /etc/hosts'
+alias hosts='sudo vi /private/etc/hosts'
 
 # IP addresses
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
