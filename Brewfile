@@ -22,7 +22,6 @@ brew 'youtube-dl'
 
 cask 'google-chrome'
 cask 'google-drive'
-cask 'local-by-flywheel'
 cask 'slack'
 cask 'spotify'
 cask 'steam'
