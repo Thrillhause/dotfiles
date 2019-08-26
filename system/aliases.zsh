@@ -16,6 +16,7 @@ alias sudo="sudo "
 alias o="open"
 alias oo="open ."
 alias e="$EDITOR"
+alias d="docker"
 alias g="git"
 alias v="vim"
 alias d="cd ~/Dropbox"
@@ -38,9 +39,9 @@ alias -- -="cd -"
 alias weather="node Projects/learn/nodetest/weather-app/app-promise.js -a 92649"
 
 # SSH Connections
-alias ssh-dhc="ssh ubuntu@208.97.140.227"
-alias ssh-yakko="ssh deanj@yakko.sd.dreamhost.com"
-alias ssh-thrill="ssh thrillhause@ps158038.dreamhostps.com"
+alias dhc="ssh ubuntu@208.97.140.227"
+alias yakko="ssh deanj@yakko.sd.dreamhost.com"
+alias vpsthrill="ssh thrillhause@ps158038.dreamhostps.com"
 
 # Be nice
 alias htop='sudo htop'
