@@ -81,7 +81,7 @@ alias showdotfiles="defaults write com.apple.finder AppleShowAllFiles -bool true
 alias hidedotfiles="defaults write com.apple.finder AppleShowAllFiles -bool false && killall Finder"
 
 # Update installed Ruby gems, Homebrew, npm, and their installed packages
-alias brew_update="brew -v update; brew upgrade --force-bottle; brew cleanup;  brew doctor; npm-check -g -u"
+alias brew_update="brew -v update; brew upgrade --force-bottle; brew cleanup;  brew doctor"
 
 # Docker stuff
 alias dc="docker container"
