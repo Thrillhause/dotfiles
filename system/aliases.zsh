@@ -41,6 +41,7 @@ alias weather="node Projects/learn/nodetest/weather-app/app-promise.js -a 92649"
 alias dhc="ssh ubuntu@208.97.140.227"
 alias yakko="ssh deanj@yakko.sd.dreamhost.com"
 alias vpsthrill="ssh thrillhause@ps158038.dreamhostps.com"
+alias tarfu="ssh deanj@tarfu.dreamhost.com"
 
 # Be nice
 alias htop='sudo htop'
