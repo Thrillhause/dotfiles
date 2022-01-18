@@ -38,7 +38,7 @@ alias -- -="cd -"
 alias weather="node Projects/learn/nodetest/weather-app/app-promise.js -a 92649"
 
 # SSH Connections
-alias dhc="ssh ubuntu@208.97.140.227"
+alias dhc="ssh -i ~/.ssh/mbp-laptop.pem ubuntu@208.113.134.125"
 alias yakko="ssh deanj@yakko.sd.dreamhost.com"
 alias vpsthrill="ssh thrillhause@ps158038.dreamhostps.com"
 alias tarfu="ssh deanj@tarfu.dreamhost.com"
@@ -87,3 +87,4 @@ alias brew_update="brew -v update; brew upgrade --force-bottle; brew cleanup;  b
 # Docker stuff
 alias dc="docker container"
 
+alias python="python3"
