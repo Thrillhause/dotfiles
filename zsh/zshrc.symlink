@@ -56,3 +56,9 @@ PERL5LIB="/Users/dean/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB
 PERL_LOCAL_LIB_ROOT="/Users/dean/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
 PERL_MB_OPT="--install_base \"/Users/dean/perl5\""; export PERL_MB_OPT;
 PERL_MM_OPT="INSTALL_BASE=/Users/dean/perl5"; export PERL_MM_OPT;
+
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+export PATH="/Users/dean/.rd/bin:$PATH"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
